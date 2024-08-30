@@ -30,6 +30,9 @@ This repository is part of a learning series I'm creating to explore TypeScript 
 
    The repository will be structured with folders for each concept or topic covered. Explore them sequentially to follow the learning path.
 
+4. **Run Command for Typescript :** tsc filename.ts
+5. **Run Command for generated JS file:** node filename.js 
+
 **Contributing:**
 
 Feel free to submit pull requests if you find any errors or have suggestions for improvement. Let's create a valuable resource for the developer community!
