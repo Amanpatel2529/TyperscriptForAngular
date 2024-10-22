@@ -44,3 +44,6 @@ This repository is licensed under the [MIT License](https://choosealicense.com/l
 **Happy learning!**
 
 I hope this series empowers you to confidently step into the world of Angular development with a solid foundation in TypeScript.  
+
+**Note:**
+just refer commit history to see when to learn what, i have made it easier to find with commit messages that what you should learn first! 
